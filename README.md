@@ -27,10 +27,8 @@ Install dependencies:
 ```bash
 pip install torch
 ```
-Run the training and testing script:
-```bash
-python main.py
-```
+Run the training and testing script
+
 (Note: The dataset/ folder contains sample files to test the pipeline immediately. To train on your own codebase, simply change the folder_path variable).
 # Author
 Built by Farouk as a foundational step in understanding NLP and PyTorch mechanics beyond tutorials.
