@@ -22,7 +22,7 @@ Text Processing: Native re (Regex)
 Environment: Windows 11, CPU-only training
 # How to Run
 Clone the repository:
-git clone https://github.com/YOUR_USERNAME/Source-Code-Language-Classifier.git
+git clone https://github.com/faroukmor/Source-Code-Language-Classifier.git
 Install dependencies:
 ```bash
 pip install torch
